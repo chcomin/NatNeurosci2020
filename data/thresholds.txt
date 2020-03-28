@@ -1,0 +1,4 @@
+#Experiment #2 (P14 set #1)_samples
+0	01-P14-S1 Layer IV	4
+1	02-P14-S1 Layer IV	4
+2	03-P14-S1 Layer IV	1
